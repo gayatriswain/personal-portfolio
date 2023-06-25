@@ -1,6 +1,6 @@
 # personal-portfolio
 Complete responsive personal portfolio.
-Tech used : HTML, CSS, Javascript, Php.
+Tech used : HTML, CSS, Javascript, Php, MySql.
 
 
 
